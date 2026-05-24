@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Elite Club",
+  "description": "An exclusive, invitation-only platform providing premium digital asset trade signals backed by a decade of veteran human market intelligence and industry-leading performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
